@@ -60,6 +60,10 @@ header {
     text-decoration: none;
 }
 
+#sidebar-menu a:hover {
+    background-color: #555;
+}
+
 .album {
     display: flex;
     flex-wrap: wrap;
