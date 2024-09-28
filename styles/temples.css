@@ -69,6 +69,7 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 h1 {
